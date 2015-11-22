@@ -14,6 +14,31 @@
 		F20261DD1BFD9206007EEFC4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F20261DC1BFD9206007EEFC4 /* Images.xcassets */; };
 		F20261E01BFD9206007EEFC4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F20261DE1BFD9206007EEFC4 /* LaunchScreen.xib */; };
 		F20261EC1BFD9206007EEFC4 /* aiyukeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F20261EB1BFD9206007EEFC4 /* aiyukeTests.m */; };
+		F20262021BFD93B0007EEFC4 /* BallNewsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F20262001BFD93B0007EEFC4 /* BallNewsViewController.m */; };
+		F20262031BFD93B0007EEFC4 /* BallNewsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F20262011BFD93B0007EEFC4 /* BallNewsViewController.xib */; };
+		F20262071BFD93D1007EEFC4 /* HorizonalViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F20262051BFD93D1007EEFC4 /* HorizonalViewController.m */; };
+		F20262081BFD93D1007EEFC4 /* HorizonalViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F20262061BFD93D1007EEFC4 /* HorizonalViewController.xib */; };
+		F20262181BFD9424007EEFC4 /* GameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F202620A1BFD9424007EEFC4 /* GameViewController.m */; };
+		F20262191BFD9424007EEFC4 /* GameViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F202620B1BFD9424007EEFC4 /* GameViewController.xib */; };
+		F202621A1BFD9424007EEFC4 /* HeaderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F202620D1BFD9424007EEFC4 /* HeaderViewController.m */; };
+		F202621B1BFD9424007EEFC4 /* HeaderViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F202620E1BFD9424007EEFC4 /* HeaderViewController.xib */; };
+		F202621C1BFD9424007EEFC4 /* MoreViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F20262101BFD9424007EEFC4 /* MoreViewController.m */; };
+		F202621D1BFD9424007EEFC4 /* MoreViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F20262111BFD9424007EEFC4 /* MoreViewController.xib */; };
+		F202621E1BFD9424007EEFC4 /* TeachingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F20262131BFD9424007EEFC4 /* TeachingViewController.m */; };
+		F202621F1BFD9424007EEFC4 /* TeachingViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F20262141BFD9424007EEFC4 /* TeachingViewController.xib */; };
+		F20262201BFD9424007EEFC4 /* VideoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F20262161BFD9424007EEFC4 /* VideoViewController.m */; };
+		F20262211BFD9424007EEFC4 /* VideoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F20262171BFD9424007EEFC4 /* VideoViewController.xib */; };
+		F20262241BFD952E007EEFC4 /* ChildrenBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F20262231BFD952E007EEFC4 /* ChildrenBaseViewController.m */; };
+		F20262271BFD95A3007EEFC4 /* TopTitleBarView.m in Sources */ = {isa = PBXBuildFile; fileRef = F20262261BFD95A3007EEFC4 /* TopTitleBarView.m */; };
+		F202622E1BFD9730007EEFC4 /* MainTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = F202622D1BFD9730007EEFC4 /* MainTabBarController.m */; };
+		F20262321BFD976C007EEFC4 /* CicrleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F20262301BFD976C007EEFC4 /* CicrleViewController.m */; };
+		F20262331BFD976C007EEFC4 /* CicrleViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F20262311BFD976C007EEFC4 /* CicrleViewController.xib */; };
+		F20262371BFD9789007EEFC4 /* PlayBallViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F20262351BFD9789007EEFC4 /* PlayBallViewController.m */; };
+		F20262381BFD9789007EEFC4 /* PlayBallViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F20262361BFD9789007EEFC4 /* PlayBallViewController.xib */; };
+		F202623C1BFD979E007EEFC4 /* MineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F202623A1BFD979E007EEFC4 /* MineViewController.m */; };
+		F202623D1BFD979E007EEFC4 /* MineViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F202623B1BFD979E007EEFC4 /* MineViewController.xib */; };
+		F20262411BFD9966007EEFC4 /* RootHorizonalViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F202623F1BFD9966007EEFC4 /* RootHorizonalViewController.m */; };
+		F20262421BFD9966007EEFC4 /* RootHorizonalViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F20262401BFD9966007EEFC4 /* RootHorizonalViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +65,45 @@
 		F20261E51BFD9206007EEFC4 /* aiyukeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = aiyukeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F20261EA1BFD9206007EEFC4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F20261EB1BFD9206007EEFC4 /* aiyukeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = aiyukeTests.m; sourceTree = "<group>"; };
+		F20261FF1BFD93B0007EEFC4 /* BallNewsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BallNewsViewController.h; sourceTree = "<group>"; };
+		F20262001BFD93B0007EEFC4 /* BallNewsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BallNewsViewController.m; sourceTree = "<group>"; };
+		F20262011BFD93B0007EEFC4 /* BallNewsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BallNewsViewController.xib; sourceTree = "<group>"; };
+		F20262041BFD93D1007EEFC4 /* HorizonalViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HorizonalViewController.h; sourceTree = "<group>"; };
+		F20262051BFD93D1007EEFC4 /* HorizonalViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HorizonalViewController.m; sourceTree = "<group>"; };
+		F20262061BFD93D1007EEFC4 /* HorizonalViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HorizonalViewController.xib; sourceTree = "<group>"; };
+		F20262091BFD9424007EEFC4 /* GameViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameViewController.h; sourceTree = "<group>"; };
+		F202620A1BFD9424007EEFC4 /* GameViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameViewController.m; sourceTree = "<group>"; };
+		F202620B1BFD9424007EEFC4 /* GameViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GameViewController.xib; sourceTree = "<group>"; };
+		F202620C1BFD9424007EEFC4 /* HeaderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HeaderViewController.h; sourceTree = "<group>"; };
+		F202620D1BFD9424007EEFC4 /* HeaderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HeaderViewController.m; sourceTree = "<group>"; };
+		F202620E1BFD9424007EEFC4 /* HeaderViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HeaderViewController.xib; sourceTree = "<group>"; };
+		F202620F1BFD9424007EEFC4 /* MoreViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MoreViewController.h; sourceTree = "<group>"; };
+		F20262101BFD9424007EEFC4 /* MoreViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MoreViewController.m; sourceTree = "<group>"; };
+		F20262111BFD9424007EEFC4 /* MoreViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MoreViewController.xib; sourceTree = "<group>"; };
+		F20262121BFD9424007EEFC4 /* TeachingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TeachingViewController.h; sourceTree = "<group>"; };
+		F20262131BFD9424007EEFC4 /* TeachingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TeachingViewController.m; sourceTree = "<group>"; };
+		F20262141BFD9424007EEFC4 /* TeachingViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TeachingViewController.xib; sourceTree = "<group>"; };
+		F20262151BFD9424007EEFC4 /* VideoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VideoViewController.h; sourceTree = "<group>"; };
+		F20262161BFD9424007EEFC4 /* VideoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VideoViewController.m; sourceTree = "<group>"; };
+		F20262171BFD9424007EEFC4 /* VideoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = VideoViewController.xib; sourceTree = "<group>"; };
+		F20262221BFD952E007EEFC4 /* ChildrenBaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChildrenBaseViewController.h; sourceTree = "<group>"; };
+		F20262231BFD952E007EEFC4 /* ChildrenBaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChildrenBaseViewController.m; sourceTree = "<group>"; };
+		F20262251BFD95A3007EEFC4 /* TopTitleBarView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TopTitleBarView.h; sourceTree = "<group>"; };
+		F20262261BFD95A3007EEFC4 /* TopTitleBarView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TopTitleBarView.m; sourceTree = "<group>"; };
+		F202622C1BFD9730007EEFC4 /* MainTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainTabBarController.h; sourceTree = "<group>"; };
+		F202622D1BFD9730007EEFC4 /* MainTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainTabBarController.m; sourceTree = "<group>"; };
+		F202622F1BFD976C007EEFC4 /* CicrleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CicrleViewController.h; sourceTree = "<group>"; };
+		F20262301BFD976C007EEFC4 /* CicrleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CicrleViewController.m; sourceTree = "<group>"; };
+		F20262311BFD976C007EEFC4 /* CicrleViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CicrleViewController.xib; sourceTree = "<group>"; };
+		F20262341BFD9789007EEFC4 /* PlayBallViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayBallViewController.h; sourceTree = "<group>"; };
+		F20262351BFD9789007EEFC4 /* PlayBallViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayBallViewController.m; sourceTree = "<group>"; };
+		F20262361BFD9789007EEFC4 /* PlayBallViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PlayBallViewController.xib; sourceTree = "<group>"; };
+		F20262391BFD979E007EEFC4 /* MineViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MineViewController.h; sourceTree = "<group>"; };
+		F202623A1BFD979E007EEFC4 /* MineViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MineViewController.m; sourceTree = "<group>"; };
+		F202623B1BFD979E007EEFC4 /* MineViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MineViewController.xib; sourceTree = "<group>"; };
+		F202623E1BFD9966007EEFC4 /* RootHorizonalViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootHorizonalViewController.h; sourceTree = "<group>"; };
+		F202623F1BFD9966007EEFC4 /* RootHorizonalViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootHorizonalViewController.m; sourceTree = "<group>"; };
+		F20262401BFD9966007EEFC4 /* RootHorizonalViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RootHorizonalViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,13 +145,12 @@
 		F20261CE1BFD9206007EEFC4 /* aiyuke */ = {
 			isa = PBXGroup;
 			children = (
-				F20261D31BFD9206007EEFC4 /* AppDelegate.h */,
-				F20261D41BFD9206007EEFC4 /* AppDelegate.m */,
-				F20261D61BFD9206007EEFC4 /* ViewController.h */,
-				F20261D71BFD9206007EEFC4 /* ViewController.m */,
-				F20261D91BFD9206007EEFC4 /* Main.storyboard */,
-				F20261DC1BFD9206007EEFC4 /* Images.xcassets */,
-				F20261DE1BFD9206007EEFC4 /* LaunchScreen.xib */,
+				F20261F81BFD924D007EEFC4 /* Views */,
+				F20261F91BFD925C007EEFC4 /* Models */,
+				F20261F71BFD923E007EEFC4 /* ViewControllers */,
+				F20261F61BFD922A007EEFC4 /* 3rm */,
+				F20261F51BFD9214007EEFC4 /* framworks */,
+				F20261FA1BFD9292007EEFC4 /* Appdelegate */,
 				F20261CF1BFD9206007EEFC4 /* Supporting Files */,
 			);
 			path = aiyuke;
@@ -117,6 +180,126 @@
 				F20261EA1BFD9206007EEFC4 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F20261F51BFD9214007EEFC4 /* framworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = framworks;
+			sourceTree = "<group>";
+		};
+		F20261F61BFD922A007EEFC4 /* 3rm */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = 3rm;
+			sourceTree = "<group>";
+		};
+		F20261F71BFD923E007EEFC4 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				F20262221BFD952E007EEFC4 /* ChildrenBaseViewController.h */,
+				F20262231BFD952E007EEFC4 /* ChildrenBaseViewController.m */,
+				F202622C1BFD9730007EEFC4 /* MainTabBarController.h */,
+				F202622D1BFD9730007EEFC4 /* MainTabBarController.m */,
+				F20262281BFD95B4007EEFC4 /* Cicrle */,
+				F202622A1BFD95CB007EEFC4 /* PlayBall */,
+				F20262291BFD95C5007EEFC4 /* Mine */,
+				F20261FE1BFD9374007EEFC4 /* BallNews */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		F20261F81BFD924D007EEFC4 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F20262251BFD95A3007EEFC4 /* TopTitleBarView.h */,
+				F20262261BFD95A3007EEFC4 /* TopTitleBarView.m */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		F20261F91BFD925C007EEFC4 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		F20261FA1BFD9292007EEFC4 /* Appdelegate */ = {
+			isa = PBXGroup;
+			children = (
+				F20261D31BFD9206007EEFC4 /* AppDelegate.h */,
+				F20261D41BFD9206007EEFC4 /* AppDelegate.m */,
+				F20261D61BFD9206007EEFC4 /* ViewController.h */,
+				F20261D71BFD9206007EEFC4 /* ViewController.m */,
+				F20261D91BFD9206007EEFC4 /* Main.storyboard */,
+				F20261DC1BFD9206007EEFC4 /* Images.xcassets */,
+				F20261DE1BFD9206007EEFC4 /* LaunchScreen.xib */,
+			);
+			name = Appdelegate;
+			sourceTree = "<group>";
+		};
+		F20261FE1BFD9374007EEFC4 /* BallNews */ = {
+			isa = PBXGroup;
+			children = (
+				F20261FF1BFD93B0007EEFC4 /* BallNewsViewController.h */,
+				F20262001BFD93B0007EEFC4 /* BallNewsViewController.m */,
+				F20262011BFD93B0007EEFC4 /* BallNewsViewController.xib */,
+				F20262041BFD93D1007EEFC4 /* HorizonalViewController.h */,
+				F20262051BFD93D1007EEFC4 /* HorizonalViewController.m */,
+				F20262061BFD93D1007EEFC4 /* HorizonalViewController.xib */,
+				F202623E1BFD9966007EEFC4 /* RootHorizonalViewController.h */,
+				F202623F1BFD9966007EEFC4 /* RootHorizonalViewController.m */,
+				F20262401BFD9966007EEFC4 /* RootHorizonalViewController.xib */,
+				F20262091BFD9424007EEFC4 /* GameViewController.h */,
+				F202620A1BFD9424007EEFC4 /* GameViewController.m */,
+				F202620B1BFD9424007EEFC4 /* GameViewController.xib */,
+				F202620C1BFD9424007EEFC4 /* HeaderViewController.h */,
+				F202620D1BFD9424007EEFC4 /* HeaderViewController.m */,
+				F202620E1BFD9424007EEFC4 /* HeaderViewController.xib */,
+				F202620F1BFD9424007EEFC4 /* MoreViewController.h */,
+				F20262101BFD9424007EEFC4 /* MoreViewController.m */,
+				F20262111BFD9424007EEFC4 /* MoreViewController.xib */,
+				F20262121BFD9424007EEFC4 /* TeachingViewController.h */,
+				F20262131BFD9424007EEFC4 /* TeachingViewController.m */,
+				F20262141BFD9424007EEFC4 /* TeachingViewController.xib */,
+				F20262151BFD9424007EEFC4 /* VideoViewController.h */,
+				F20262161BFD9424007EEFC4 /* VideoViewController.m */,
+				F20262171BFD9424007EEFC4 /* VideoViewController.xib */,
+			);
+			path = BallNews;
+			sourceTree = "<group>";
+		};
+		F20262281BFD95B4007EEFC4 /* Cicrle */ = {
+			isa = PBXGroup;
+			children = (
+				F202622F1BFD976C007EEFC4 /* CicrleViewController.h */,
+				F20262301BFD976C007EEFC4 /* CicrleViewController.m */,
+				F20262311BFD976C007EEFC4 /* CicrleViewController.xib */,
+			);
+			path = Cicrle;
+			sourceTree = "<group>";
+		};
+		F20262291BFD95C5007EEFC4 /* Mine */ = {
+			isa = PBXGroup;
+			children = (
+				F20262391BFD979E007EEFC4 /* MineViewController.h */,
+				F202623A1BFD979E007EEFC4 /* MineViewController.m */,
+				F202623B1BFD979E007EEFC4 /* MineViewController.xib */,
+			);
+			path = Mine;
+			sourceTree = "<group>";
+		};
+		F202622A1BFD95CB007EEFC4 /* PlayBall */ = {
+			isa = PBXGroup;
+			children = (
+				F20262341BFD9789007EEFC4 /* PlayBallViewController.h */,
+				F20262351BFD9789007EEFC4 /* PlayBallViewController.m */,
+				F20262361BFD9789007EEFC4 /* PlayBallViewController.xib */,
+			);
+			path = PlayBall;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -200,8 +383,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				F20261DB1BFD9206007EEFC4 /* Main.storyboard in Resources */,
+				F20262421BFD9966007EEFC4 /* RootHorizonalViewController.xib in Resources */,
+				F202621D1BFD9424007EEFC4 /* MoreViewController.xib in Resources */,
 				F20261E01BFD9206007EEFC4 /* LaunchScreen.xib in Resources */,
+				F20262381BFD9789007EEFC4 /* PlayBallViewController.xib in Resources */,
+				F20262191BFD9424007EEFC4 /* GameViewController.xib in Resources */,
+				F202621B1BFD9424007EEFC4 /* HeaderViewController.xib in Resources */,
+				F20262081BFD93D1007EEFC4 /* HorizonalViewController.xib in Resources */,
+				F202621F1BFD9424007EEFC4 /* TeachingViewController.xib in Resources */,
+				F20262031BFD93B0007EEFC4 /* BallNewsViewController.xib in Resources */,
+				F20262211BFD9424007EEFC4 /* VideoViewController.xib in Resources */,
+				F20262331BFD976C007EEFC4 /* CicrleViewController.xib in Resources */,
 				F20261DD1BFD9206007EEFC4 /* Images.xcassets in Resources */,
+				F202623D1BFD979E007EEFC4 /* MineViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -220,8 +414,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				F20261D81BFD9206007EEFC4 /* ViewController.m in Sources */,
+				F202622E1BFD9730007EEFC4 /* MainTabBarController.m in Sources */,
+				F20262411BFD9966007EEFC4 /* RootHorizonalViewController.m in Sources */,
+				F202621A1BFD9424007EEFC4 /* HeaderViewController.m in Sources */,
+				F20262201BFD9424007EEFC4 /* VideoViewController.m in Sources */,
+				F20262021BFD93B0007EEFC4 /* BallNewsViewController.m in Sources */,
+				F202621E1BFD9424007EEFC4 /* TeachingViewController.m in Sources */,
+				F20262181BFD9424007EEFC4 /* GameViewController.m in Sources */,
+				F202623C1BFD979E007EEFC4 /* MineViewController.m in Sources */,
+				F20262241BFD952E007EEFC4 /* ChildrenBaseViewController.m in Sources */,
+				F202621C1BFD9424007EEFC4 /* MoreViewController.m in Sources */,
 				F20261D51BFD9206007EEFC4 /* AppDelegate.m in Sources */,
+				F20262321BFD976C007EEFC4 /* CicrleViewController.m in Sources */,
+				F20262271BFD95A3007EEFC4 /* TopTitleBarView.m in Sources */,
+				F20262071BFD93D1007EEFC4 /* HorizonalViewController.m in Sources */,
 				F20261D21BFD9206007EEFC4 /* main.m in Sources */,
+				F20262371BFD9789007EEFC4 /* PlayBallViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
